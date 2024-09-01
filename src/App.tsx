@@ -128,7 +128,7 @@ const App = () => {
                 className="w-12 h-12 2xl:w-16 2xl:h-16 mb-4"
               />
               <h1 className="font-Righteous mt-1.5 2xl:mt-3 text-3xl 2xl:text-4xl text-slate-950 cursor-default">
-                Schnell
+                AI Image Generator
               </h1>
             </div>
             <About
